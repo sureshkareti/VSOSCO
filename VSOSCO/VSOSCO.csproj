@@ -106,6 +106,7 @@
     <Content Include="img\03.jpg" />
     <Content Include="img\04.jpg" />
     <Content Include="img\05.jpg" />
+    <Content Include="img\bg.png" />
     <Content Include="img\client\01.png" />
     <Content Include="img\client\02.png" />
     <Content Include="img\client\03.png" />
